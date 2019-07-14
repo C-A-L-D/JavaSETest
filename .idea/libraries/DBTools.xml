@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DBTools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test7/libs/DBTools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
